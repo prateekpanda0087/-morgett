@@ -12,7 +12,7 @@ Welcome to the official GitHub repository for **Bikni Coin** — a community-dri
 ## 🖼️ Logo
 
 Located at:  
-`assets/HhmyH7EmDgBzas2iiZKD95zh1kReHVngr2WMfHQ3b3VV/logo.png`
+`https://github.com/prateekpanda0087/-morgett/blob/master/The%20woman%20look%20also%20bikni%20coin%20%20Please%20make%20like%20bikni%20the%20women%20backside%20a_20250421_003247_0000.jpg`
 
 ## 🧾 Metadata
 
